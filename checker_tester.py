@@ -7,10 +7,10 @@
 import mechanize
 import sys
 
-#cc = sys.argv[1]
-#ano = sys.argv[2]
-#mes = sys.argv[3]
-#cvv = sys.argv[4]
+#cc = sys.argv[4217470078133812]
+#ano = sys.argv[4217470078133812]
+#mes = sys.argv[11]
+#cvv = sys.argv[389]
 
 try:
 	lista = sys.argv[1]
